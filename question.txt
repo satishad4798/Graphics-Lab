@@ -1,0 +1,8 @@
+1) Implement stack operation using OpenGL.
+stack will look like a ladder, with some fixed size.
+initially STACK EMPTY message must be displayed on output window.
+text must be added to output window, showing press Key 'I" to perform push operation and key 'D' for pop operation.
+respective message must be displayed for push and pop operation, overwriting previous message.
+push operation will randomly add some integer value to stack.
+if stack is full, STACK EMPTY message must be displayed.
+2) Modifications on above problem statement will be asked
